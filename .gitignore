@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+logs/*
+!logs/.gitkeep
+results/raw/*
+!results/raw/.gitkeep
+results/summary/*
+!results/summary/.gitkeep
+figures/*.pdf
+figures/*.png
