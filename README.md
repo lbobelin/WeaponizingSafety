@@ -113,7 +113,3 @@ The original core campaign uses independent deterministic seeds derived from the
 ## Modeling scope
 
 Human fallback is represented by a fixed capacity `H`. The simulator intentionally does **not** model cognitive workload, fatigue, individual operator skill, or a specific remote-operation-center interface. Loss values are normalized synthetic quantities and should not be interpreted as calibrated monetary or safety-risk estimates.
-
-## Anonymous-review note
-
-The artifact intentionally contains no author names, affiliations, institutional paths, account identifiers, acknowledgements, or repository URLs. If hosted for double-blind review, use an anonymous repository/account or the conference's anonymous artifact-hosting mechanism; repository ownership itself is outside the contents of this archive.
